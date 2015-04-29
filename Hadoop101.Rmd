@@ -50,8 +50,5 @@ Spark defines two sorts of operations on RDD: Transformations and actions. Trans
 There are two ways to work with spark. One is Spark shell (REPL) which supports Python and Scala and the other is Spark application which supports Python, Scala and Java.  
 
 
-### Hello World of Spark - A word count example 
-
-==============================================
 
 
